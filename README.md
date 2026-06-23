@@ -11,6 +11,13 @@ This project is a real-time Sign Language Recognition System developed using Pyt
 - User-friendly interface
 - High accuracy prediction
 
+## Current Supported Letters
+A, B, C
+
+## How to Run
+```bash
+pip install -r requirements.txt
+python predict.py
 ## 🛠️ Technologies Used
 - Python
 - TensorFlow / Keras
